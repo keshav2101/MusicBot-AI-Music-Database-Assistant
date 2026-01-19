@@ -20,7 +20,7 @@ MusicBot is an intelligent chatbot powered by **Ollama** (Llama 3.2) and **LangG
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/keshav2101/MusicBot-AI-Music-Database-Assistant.git
    cd Responsible-AI
    ```
 
